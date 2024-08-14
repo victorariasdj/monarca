@@ -82,12 +82,13 @@ header {
 
 #aActive:hover {
     background-color: #f9cd12;
-    color: #0a5599
+    color: #0a5599;
 } 
 
 .container__ul a:hover {
     color: #fff;
     background-color: #0a5599;
+
 }
 
 .menu__toggle {
@@ -240,6 +241,7 @@ footer {
 
 .boton:hover {
     background-color: #f9cd12;
+    transform: scale(0.96);
 }
 
 
